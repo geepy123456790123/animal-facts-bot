@@ -736,6 +736,7 @@ BEAR_FACTS = (
     'The "Teddy Bear" comes from 1902 when U.S. President Theodore Roosevelt (a.k.a. Teddy) refused to shoot a bear cub that was brought to him. The act of kindness spread quickly and the name "Teddy Bear" became popular.',
     'The Giant Panda is seen as so valuable that the Chinese government has used them as gifts to other countries!',
     'Bears such as the American Black Bear and the Grizzly Bear hibernate in the winter. Their heart rates drop from a normal 55 to only 9!',
+    'Bears eat mostly meat and fish, but some bears also eat plants and insects.',
     )
 
 BEAVER_FACTS = (
