@@ -756,6 +756,7 @@ BEAVER_FACTS = (
     'Beavers can live up to 24 years in the wild.',
     'The beaver is the national animal of Canada, and is featured on the Canadian five-cent piece.',
     'Beavers like to keep themselves busy, they are prolific builders during the night. Hence the saying "As busy as a beaver".',
+    'Beavers sometimes snack on tree bark or the softer layers of wood underneath.',
     )
 
 BISON_FACTS = (
