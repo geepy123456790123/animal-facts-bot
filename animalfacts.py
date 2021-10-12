@@ -2040,6 +2040,8 @@ MANATEE_FACTS = (
     'Manatees inhabit the shallow, marshy coastal areas and rivers of the Caribbean Sea and the Gulf of Mexico, the Amazon basin, and West Africa.',
     'An adult manatee can grow up to 13 feet long and weigh as much as 1300 pounds, and can consume 10 to 15 percent of its body weight in vegetation each day.',
     'Using their powerful, paddle-shaped tails, manatees can swim for short bursts at up to 20 mph.',
+    'Manatees usually surface every three to five minutes to breathe.',
+
     )
 
 MANTIS_SHRIMP_FACTS = (
