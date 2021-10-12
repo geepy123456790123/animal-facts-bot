@@ -1863,6 +1863,7 @@ KANGAROO_FACTS = (
     'Baby kangaroos are known as ‘joeys’. A group of kangaroos is called a ‘mob’, ‘troop’, or ‘court’.',
     'The red kangaroo is the largest marsupial in the world.',
     'Kangaroos usually live to around six years old in the wild.',
+    'There are more kangaroos in Australia than there are Australian people.',
     )
 
 KIWI_FACTS = (
