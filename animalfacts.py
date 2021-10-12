@@ -2038,6 +2038,8 @@ MANATEE_FACTS = (
     'Manatees typically breed once every two years; generally only a single calf is born.',
     'Manatees have four rows of teeth. Like sharks, these teeth are continually replaced.',
     'Manatees inhabit the shallow, marshy coastal areas and rivers of the Caribbean Sea and the Gulf of Mexico, the Amazon basin, and West Africa.',
+    'An adult manatee can grow up to 13 feet long and weigh as much as 1300 pounds, and can consume 10 to 15 percent of its body weight in vegetation each day.',
+
     )
 
 MANTIS_SHRIMP_FACTS = (
