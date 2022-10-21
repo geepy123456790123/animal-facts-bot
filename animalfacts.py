@@ -1027,6 +1027,7 @@ COW_FACTS = (
     'Cows can hear lower and higher frequencies better than humans.',
     'An average dairy cow weighs about 1,200 pounds.',
     'A cows normal body temperature is 101.5°F.',
+    'Cows have with a visual field of 330°, almost an all-around view.',
     'The average cow chews at least 50 times per minute.',
     'The typical cow stands up and sits down about 14 times a day.',
     'An average cow has more than 40,000 jaw movements in a day.',
